@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style: solid;
+    text-decoration-thickness: 10px;
+
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+   /* text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style: solid;
+    text-underline-offset: 20px;*/
+}
+#text{
+    color:red;
+    width: 500px;
+    padding: 10px;
+    margin:0 auto;
+    border: 2px solid #000;
+}
+#text h3{
+    border-bottom: 2px solid currentColor;
+}
+.readmore{
+    color: currentColor;
+}
